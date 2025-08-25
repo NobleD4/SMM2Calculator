@@ -185,7 +185,7 @@ Partial Class Form1
         BtnPng.Location = New Point(264, 45)
         BtnPng.Name = "BtnPng"
         BtnPng.Size = New Size(43, 19)
-        BtnPng.TabIndex = 50
+        BtnPng.TabIndex = 82
         BtnPng.Text = "<BtnPng>"
         BtnPng.UseVisualStyleBackColor = False
         ' 
@@ -226,7 +226,7 @@ Partial Class Form1
         BtnFIns.Location = New Point(205, 359)
         BtnFIns.Name = "BtnFIns"
         BtnFIns.Size = New Size(72, 23)
-        BtnFIns.TabIndex = 47
+        BtnFIns.TabIndex = 60
         BtnFIns.Text = "<Search>"
         BtnFIns.TextImageRelation = TextImageRelation.ImageBeforeText
         BtnFIns.UseVisualStyleBackColor = False
@@ -239,7 +239,7 @@ Partial Class Form1
         CkCtrl.Location = New Point(311, 23)
         CkCtrl.Name = "CkCtrl"
         CkCtrl.Size = New Size(66, 17)
-        CkCtrl.TabIndex = 34
+        CkCtrl.TabIndex = 78
         CkCtrl.Text = "<CkCtrl>"
         CkCtrl.UseVisualStyleBackColor = True
         ' 
@@ -251,7 +251,7 @@ Partial Class Form1
         BtnSave.Location = New Point(297, 106)
         BtnSave.Name = "BtnSave"
         BtnSave.Size = New Size(57, 25)
-        BtnSave.TabIndex = 46
+        BtnSave.TabIndex = 66
         BtnSave.Text = "<Save>"
         BtnSave.TextImageRelation = TextImageRelation.ImageBeforeText
         BtnSave.UseVisualStyleBackColor = False
@@ -302,7 +302,7 @@ Partial Class Form1
         BtnCls.Location = New Point(4, 283)
         BtnCls.Name = "BtnCls"
         BtnCls.Size = New Size(51, 23)
-        BtnCls.TabIndex = 30
+        BtnCls.TabIndex = 45
         BtnCls.Text = "<Clear>"
         BtnCls.TextImageRelation = TextImageRelation.ImageBeforeText
         BtnCls.UseVisualStyleBackColor = False
@@ -328,7 +328,7 @@ Partial Class Form1
         BUTTON_Operate.Location = New Point(310, 45)
         BUTTON_Operate.Name = "BUTTON_Operate"
         BUTTON_Operate.Size = New Size(43, 19)
-        BUTTON_Operate.TabIndex = 29
+        BUTTON_Operate.TabIndex = 83
         BUTTON_Operate.Text = "<Operate>"
         BUTTON_Operate.UseVisualStyleBackColor = False
         ' 
@@ -339,7 +339,7 @@ Partial Class Form1
         TR4.Location = New Point(99, 364)
         TR4.Name = "TR4"
         TR4.Size = New Size(43, 21)
-        TR4.TabIndex = 44
+        TR4.TabIndex = 58
         TR4.Text = "10"
         TR4.TextAlign = HorizontalAlignment.Center
         ' 
@@ -351,7 +351,7 @@ Partial Class Form1
         BtnSrc.Location = New Point(4, 238)
         BtnSrc.Name = "BtnSrc"
         BtnSrc.Size = New Size(126, 23)
-        BtnSrc.TabIndex = 28
+        BtnSrc.TabIndex = 34
         BtnSrc.Text = "<Search>"
         BtnSrc.TextImageRelation = TextImageRelation.ImageBeforeText
         BtnSrc.UseVisualStyleBackColor = False
@@ -363,7 +363,7 @@ Partial Class Form1
         TR3.Location = New Point(51, 364)
         TR3.Name = "TR3"
         TR3.Size = New Size(43, 21)
-        TR3.TabIndex = 43
+        TR3.TabIndex = 57
         TR3.Text = "0.1"
         TR3.TextAlign = HorizontalAlignment.Center
         ' 
@@ -388,7 +388,7 @@ Partial Class Form1
         TR2.Location = New Point(4, 364)
         TR2.Name = "TR2"
         TR2.Size = New Size(43, 21)
-        TR2.TabIndex = 42
+        TR2.TabIndex = 56
         TR2.Text = "0"
         TR2.TextAlign = HorizontalAlignment.Center
         ' 
@@ -401,7 +401,7 @@ Partial Class Form1
         T1.Name = "T1"
         T1.ScrollBars = ScrollBars.Vertical
         T1.Size = New Size(350, 35)
-        T1.TabIndex = 41
+        T1.TabIndex = 63
         T1.Text = "1" & vbCrLf & "2" & vbCrLf & "3" & vbCrLf & "4" & vbCrLf & "5" & vbCrLf & "6"
         ' 
         ' T2
@@ -425,7 +425,7 @@ Partial Class Form1
         TSP.Location = New Point(129, 264)
         TSP.Name = "TSP"
         TSP.Size = New Size(78, 20)
-        TSP.TabIndex = 30
+        TSP.TabIndex = 43
         TSP.Text = "<Hitbox>"
         TSP.UseVisualStyleBackColor = False
         ' 
@@ -448,7 +448,7 @@ Partial Class Form1
         TS4.Location = New Point(65, 264)
         TS4.Name = "TS4"
         TS4.Size = New Size(38, 20)
-        TS4.TabIndex = 29
+        TS4.TabIndex = 41
         TS4.Text = "Sx"
         TS4.UseVisualStyleBackColor = False
         ' 
@@ -464,7 +464,7 @@ Partial Class Form1
         COMBOBOX_JumpAcc.Location = New Point(257, 68)
         COMBOBOX_JumpAcc.Name = "COMBOBOX_JumpAcc"
         COMBOBOX_JumpAcc.Size = New Size(97, 21)
-        COMBOBOX_JumpAcc.TabIndex = 27
+        COMBOBOX_JumpAcc.TabIndex = 86
         COMBOBOX_JumpAcc.Visible = False
         ' 
         ' TY4
@@ -475,7 +475,7 @@ Partial Class Form1
         TY4.Location = New Point(35, 264)
         TY4.Name = "TY4"
         TY4.Size = New Size(33, 20)
-        TY4.TabIndex = 28
+        TY4.TabIndex = 40
         TY4.Text = "Y"
         TY4.UseVisualStyleBackColor = False
         ' 
@@ -498,7 +498,7 @@ Partial Class Form1
         TX4.Location = New Point(5, 264)
         TX4.Name = "TX4"
         TX4.Size = New Size(33, 20)
-        TX4.TabIndex = 27
+        TX4.TabIndex = 39
         TX4.Text = "X"
         TX4.UseVisualStyleBackColor = False
         ' 
@@ -544,7 +544,7 @@ Partial Class Form1
         TxtAir.Location = New Point(162, 68)
         TxtAir.Name = "TxtAir"
         TxtAir.Size = New Size(89, 20)
-        TxtAir.TabIndex = 39
+        TxtAir.TabIndex = 85
         TxtAir.Text = "0.00-0.00"
         TxtAir.TextAlign = HorizontalAlignment.Center
         TxtAir.Visible = False
@@ -567,7 +567,7 @@ Partial Class Form1
         TxtStrat.Location = New Point(172, 106)
         TxtStrat.Name = "TxtStrat"
         TxtStrat.Size = New Size(120, 21)
-        TxtStrat.TabIndex = 27
+        TxtStrat.TabIndex = 65
         ' 
         ' TY2
         ' 
@@ -597,7 +597,7 @@ Partial Class Form1
         TxtStep.Location = New Point(146, 286)
         TxtStep.Name = "TxtStep"
         TxtStep.Size = New Size(45, 21)
-        TxtStep.TabIndex = 27
+        TxtStep.TabIndex = 47
         TxtStep.Text = "0.00"
         TxtStep.TextAlign = HorizontalAlignment.Center
         ' 
@@ -657,7 +657,7 @@ Partial Class Form1
         COMBOBOX_Strat.Location = New Point(4, 106)
         COMBOBOX_Strat.Name = "COMBOBOX_Strat"
         COMBOBOX_Strat.Size = New Size(150, 24)
-        COMBOBOX_Strat.TabIndex = 22
+        COMBOBOX_Strat.TabIndex = 64
         ' 
         ' LblCal
         ' 
@@ -738,7 +738,7 @@ Partial Class Form1
         TFPS.Location = New Point(87, 22)
         TFPS.Name = "TFPS"
         TFPS.Size = New Size(43, 20)
-        TFPS.TabIndex = 51
+        TFPS.TabIndex = 73
         TFPS.Text = "60"
         TFPS.TextAlign = HorizontalAlignment.Center
         ' 
@@ -759,7 +759,7 @@ Partial Class Form1
         TxtFormLoc.Location = New Point(130, 22)
         TxtFormLoc.Name = "TxtFormLoc"
         TxtFormLoc.Size = New Size(43, 20)
-        TxtFormLoc.TabIndex = 53
+        TxtFormLoc.TabIndex = 74
         TxtFormLoc.Text = "0"
         TxtFormLoc.TextAlign = HorizontalAlignment.Center
         ' 
@@ -780,7 +780,7 @@ Partial Class Form1
         TxtOpc.Location = New Point(173, 22)
         TxtOpc.Name = "TxtOpc"
         TxtOpc.Size = New Size(43, 20)
-        TxtOpc.TabIndex = 55
+        TxtOpc.TabIndex = 75
         TxtOpc.Text = "30"
         TxtOpc.TextAlign = HorizontalAlignment.Center
         ' 
@@ -801,7 +801,7 @@ Partial Class Form1
         TDL.Location = New Point(216, 22)
         TDL.Name = "TDL"
         TDL.Size = New Size(43, 20)
-        TDL.TabIndex = 57
+        TDL.TabIndex = 76
         TDL.Text = "100"
         TDL.TextAlign = HorizontalAlignment.Center
         ' 
@@ -825,7 +825,7 @@ Partial Class Form1
         COMBOBOX_Theme.Location = New Point(4, 3)
         COMBOBOX_Theme.Name = "COMBOBOX_Theme"
         COMBOBOX_Theme.Size = New Size(77, 21)
-        COMBOBOX_Theme.TabIndex = 59
+        COMBOBOX_Theme.TabIndex = 67
         ' 
         ' COMBOBOX_Style
         ' 
@@ -837,7 +837,7 @@ Partial Class Form1
         COMBOBOX_Style.Location = New Point(4, 25)
         COMBOBOX_Style.Name = "COMBOBOX_Style"
         COMBOBOX_Style.Size = New Size(76, 21)
-        COMBOBOX_Style.TabIndex = 60
+        COMBOBOX_Style.TabIndex = 68
         ' 
         ' COMBOBOX_SemiSolid
         ' 
@@ -849,7 +849,7 @@ Partial Class Form1
         COMBOBOX_SemiSolid.Location = New Point(4, 47)
         COMBOBOX_SemiSolid.Name = "COMBOBOX_SemiSolid"
         COMBOBOX_SemiSolid.Size = New Size(76, 21)
-        COMBOBOX_SemiSolid.TabIndex = 61
+        COMBOBOX_SemiSolid.TabIndex = 69
         ' 
         ' COMBOBOX_Character
         ' 
@@ -861,7 +861,7 @@ Partial Class Form1
         COMBOBOX_Character.Location = New Point(4, 69)
         COMBOBOX_Character.Name = "COMBOBOX_Character"
         COMBOBOX_Character.Size = New Size(76, 21)
-        COMBOBOX_Character.TabIndex = 62
+        COMBOBOX_Character.TabIndex = 70
         ' 
         ' COMBOBOX_Ground
         ' 
@@ -873,7 +873,7 @@ Partial Class Form1
         COMBOBOX_Ground.Location = New Point(4, 91)
         COMBOBOX_Ground.Name = "COMBOBOX_Ground"
         COMBOBOX_Ground.Size = New Size(76, 21)
-        COMBOBOX_Ground.TabIndex = 63
+        COMBOBOX_Ground.TabIndex = 71
         ' 
         ' CHECK_Night
         ' 
@@ -882,7 +882,7 @@ Partial Class Form1
         CHECK_Night.Location = New Point(4, 111)
         CHECK_Night.Name = "CHECK_Night"
         CHECK_Night.Size = New Size(63, 17)
-        CHECK_Night.TabIndex = 64
+        CHECK_Night.TabIndex = 72
         CHECK_Night.Text = "<Night>"
         CHECK_Night.UseVisualStyleBackColor = True
         ' 
@@ -895,7 +895,7 @@ Partial Class Form1
         BtnEmu.Location = New Point(87, 45)
         BtnEmu.Name = "BtnEmu"
         BtnEmu.Size = New Size(43, 25)
-        BtnEmu.TabIndex = 66
+        BtnEmu.TabIndex = 79
         BtnEmu.Text = "<BtnEmu>"
         BtnEmu.UseVisualStyleBackColor = False
         ' 
@@ -908,7 +908,7 @@ Partial Class Form1
         BtnScr.Location = New Point(130, 45)
         BtnScr.Name = "BtnScr"
         BtnScr.Size = New Size(43, 25)
-        BtnScr.TabIndex = 67
+        BtnScr.TabIndex = 80
         BtnScr.Text = "<BtnScr>"
         BtnScr.UseVisualStyleBackColor = False
         ' 
@@ -921,7 +921,7 @@ Partial Class Form1
         BtnPlay.Location = New Point(173, 45)
         BtnPlay.Name = "BtnPlay"
         BtnPlay.Size = New Size(43, 25)
-        BtnPlay.TabIndex = 68
+        BtnPlay.TabIndex = 81
         BtnPlay.Text = "<BtnPlay>"
         BtnPlay.UseVisualStyleBackColor = False
         ' 
@@ -933,7 +933,7 @@ Partial Class Form1
         BtnGif.Location = New Point(281, 238)
         BtnGif.Name = "BtnGif"
         BtnGif.Size = New Size(34, 25)
-        BtnGif.TabIndex = 69
+        BtnGif.TabIndex = 37
         BtnGif.Text = "GIF"
         BtnGif.TextImageRelation = TextImageRelation.ImageBeforeText
         BtnGif.UseVisualStyleBackColor = False
@@ -947,7 +947,7 @@ Partial Class Form1
         BtnMont.Location = New Point(263, 17)
         BtnMont.Name = "BtnMont"
         BtnMont.Size = New Size(43, 23)
-        BtnMont.TabIndex = 97
+        BtnMont.TabIndex = 77
         BtnMont.Text = "<BtnMont>"
         BtnMont.TextImageRelation = TextImageRelation.ImageBeforeText
         BtnMont.UseVisualStyleBackColor = False
@@ -1032,7 +1032,7 @@ Partial Class Form1
         TYH.Name = "TYH"
         TYH.ReadOnly = True
         TYH.Size = New Size(50, 21)
-        TYH.TabIndex = 89
+        TYH.TabIndex = 51
         TYH.TextAlign = HorizontalAlignment.Center
         TYH.Value = New Decimal(New Integer() {32, 0, 0, 0})
         ' 
@@ -1067,7 +1067,7 @@ Partial Class Form1
         TSPX2.Location = New Point(235, 240)
         TSPX2.Name = "TSPX2"
         TSPX2.Size = New Size(43, 21)
-        TSPX2.TabIndex = 77
+        TSPX2.TabIndex = 36
         TSPX2.Text = "0.05"
         TSPX2.TextAlign = HorizontalAlignment.Center
         ' 
@@ -1136,7 +1136,7 @@ Partial Class Form1
         TB.Name = "TB"
         TB.ReadOnly = True
         TB.Size = New Size(50, 21)
-        TB.TabIndex = 84
+        TB.TabIndex = 54
         TB.TextAlign = HorizontalAlignment.Center
         TB.Value = New Decimal(New Integer() {84, 0, 0, 0})
         ' 
@@ -1183,7 +1183,7 @@ Partial Class Form1
         TYW.Name = "TYW"
         TYW.ReadOnly = True
         TYW.Size = New Size(50, 21)
-        TYW.TabIndex = 86
+        TYW.TabIndex = 50
         TYW.TextAlign = HorizontalAlignment.Center
         TYW.Value = New Decimal(New Integer() {160, 0, 0, 0})
         ' 
@@ -1196,7 +1196,7 @@ Partial Class Form1
         NumH.Name = "NumH"
         NumH.ReadOnly = True
         NumH.Size = New Size(50, 21)
-        NumH.TabIndex = 74
+        NumH.TabIndex = 53
         NumH.TextAlign = HorizontalAlignment.Center
         NumH.Value = New Decimal(New Integer() {8, 0, 0, 0})
         ' 
@@ -1209,7 +1209,7 @@ Partial Class Form1
         NumW.Name = "NumW"
         NumW.ReadOnly = True
         NumW.Size = New Size(50, 21)
-        NumW.TabIndex = 73
+        NumW.TabIndex = 52
         NumW.TextAlign = HorizontalAlignment.Center
         NumW.Value = New Decimal(New Integer() {10, 0, 0, 0})
         ' 
@@ -1221,7 +1221,7 @@ Partial Class Form1
         TSPX1.Location = New Point(161, 240)
         TSPX1.Name = "TSPX1"
         TSPX1.Size = New Size(43, 21)
-        TSPX1.TabIndex = 76
+        TSPX1.TabIndex = 35
         TSPX1.Text = "0"
         TSPX1.TextAlign = HorizontalAlignment.Center
         ' 
@@ -1235,7 +1235,7 @@ Partial Class Form1
         COMBOBOX_Item.Location = New Point(251, 266)
         COMBOBOX_Item.Name = "COMBOBOX_Item"
         COMBOBOX_Item.Size = New Size(103, 24)
-        COMBOBOX_Item.TabIndex = 81
+        COMBOBOX_Item.TabIndex = 44
         ' 
         ' Label17
         ' 
@@ -1357,7 +1357,7 @@ Partial Class Form1
         LBox.Location = New Point(4, 17)
         LBox.Name = "LBox"
         LBox.Size = New Size(350, 34)
-        LBox.TabIndex = 73
+        LBox.TabIndex = 62
         ' 
         ' LABEL_FrameRate
         ' 
@@ -1520,7 +1520,7 @@ Partial Class Form1
         BUTTON_En.Location = New Point(320, 238)
         BUTTON_En.Name = "BUTTON_En"
         BUTTON_En.Size = New Size(34, 25)
-        BUTTON_En.TabIndex = 106
+        BUTTON_En.TabIndex = 38
         BUTTON_En.Text = "En"
         BUTTON_En.TextImageRelation = TextImageRelation.ImageBeforeText
         BUTTON_En.UseVisualStyleBackColor = False
@@ -1546,7 +1546,7 @@ Partial Class Form1
         NumZoom.Name = "NumZoom"
         NumZoom.ReadOnly = True
         NumZoom.Size = New Size(50, 21)
-        NumZoom.TabIndex = 109
+        NumZoom.TabIndex = 55
         NumZoom.TextAlign = HorizontalAlignment.Center
         NumZoom.Value = New Decimal(New Integer() {5, 0, 0, 0})
         ' 
@@ -1558,7 +1558,7 @@ Partial Class Form1
         BReadMem.Location = New Point(195, 278)
         BReadMem.Name = "BReadMem"
         BReadMem.Size = New Size(51, 25)
-        BReadMem.TabIndex = 105
+        BReadMem.TabIndex = 48
         BReadMem.Text = "!Addr"
         BReadMem.TextImageRelation = TextImageRelation.ImageBeforeText
         BReadMem.UseVisualStyleBackColor = False
@@ -1583,7 +1583,7 @@ Partial Class Form1
         BtnTile.Location = New Point(328, 295)
         BtnTile.Name = "BtnTile"
         BtnTile.Size = New Size(26, 23)
-        BtnTile.TabIndex = 80
+        BtnTile.TabIndex = 49
         BtnTile.UseVisualStyleBackColor = False
         ' 
         ' BAddHis
@@ -1607,7 +1607,7 @@ Partial Class Form1
         CB1F.Location = New Point(284, 364)
         CB1F.Name = "CB1F"
         CB1F.Size = New Size(54, 20)
-        CB1F.TabIndex = 81
+        CB1F.TabIndex = 61
         CB1F.Text = "<1F>"
         CB1F.UseVisualStyleBackColor = False
         ' 
@@ -1653,7 +1653,7 @@ Partial Class Form1
         NIns.Name = "NIns"
         NIns.ReadOnly = True
         NIns.Size = New Size(50, 21)
-        NIns.TabIndex = 79
+        NIns.TabIndex = 59
         NIns.TextAlign = HorizontalAlignment.Center
         NIns.Value = New Decimal(New Integer() {2, 0, 0, 0})
         ' 
@@ -1688,7 +1688,7 @@ Partial Class Form1
         BtnUndo.Location = New Point(60, 283)
         BtnUndo.Name = "BtnUndo"
         BtnUndo.Size = New Size(51, 23)
-        BtnUndo.TabIndex = 81
+        BtnUndo.TabIndex = 46
         BtnUndo.Text = "<Undo>"
         BtnUndo.TextImageRelation = TextImageRelation.ImageBeforeText
         BtnUndo.UseVisualStyleBackColor = False
@@ -1726,7 +1726,7 @@ Partial Class Form1
         TSY4.Location = New Point(96, 264)
         TSY4.Name = "TSY4"
         TSY4.Size = New Size(38, 20)
-        TSY4.TabIndex = 103
+        TSY4.TabIndex = 42
         TSY4.Text = "Sy"
         TSY4.UseVisualStyleBackColor = False
         ' 
@@ -1774,7 +1774,7 @@ Partial Class Form1
         BEmu.Location = New Point(259, 93)
         BEmu.Name = "BEmu"
         BEmu.Size = New Size(43, 23)
-        BEmu.TabIndex = 106
+        BEmu.TabIndex = 87
         BEmu.Text = "<Emu>"
         BEmu.TextImageRelation = TextImageRelation.ImageBeforeText
         BEmu.UseVisualStyleBackColor = False
@@ -1788,7 +1788,7 @@ Partial Class Form1
         BtnTile2.Location = New Point(99, 76)
         BtnTile2.Name = "BtnTile2"
         BtnTile2.Size = New Size(26, 23)
-        BtnTile2.TabIndex = 82
+        BtnTile2.TabIndex = 84
         BtnTile2.UseVisualStyleBackColor = False
         BtnTile2.Visible = False
         ' 
@@ -1805,7 +1805,7 @@ Partial Class Form1
         Panel2.Location = New Point(3, 416)
         Panel2.Name = "Panel2"
         Panel2.Size = New Size(360, 135)
-        Panel2.TabIndex = 0
+        Panel2.TabIndex = 1
         ' 
         ' LABEL_Strat
         ' 
@@ -1850,7 +1850,7 @@ Partial Class Form1
         Panel3.Location = New Point(3, 554)
         Panel3.Name = "Panel3"
         Panel3.Size = New Size(360, 132)
-        Panel3.TabIndex = 0
+        Panel3.TabIndex = 2
         ' 
         ' BtnGenJump
         ' 
@@ -1861,7 +1861,7 @@ Partial Class Form1
         BtnGenJump.Location = New Point(307, 94)
         BtnGenJump.Name = "BtnGenJump"
         BtnGenJump.Size = New Size(43, 23)
-        BtnGenJump.TabIndex = 98
+        BtnGenJump.TabIndex = 88
         BtnGenJump.Text = "<BtnGenJump>"
         BtnGenJump.TextImageRelation = TextImageRelation.ImageBeforeText
         BtnGenJump.UseVisualStyleBackColor = False
@@ -1875,7 +1875,7 @@ Partial Class Form1
         LHis.Location = New Point(398, 546)
         LHis.Name = "LHis"
         LHis.Size = New Size(206, 55)
-        LHis.TabIndex = 79
+        LHis.TabIndex = 89
         LHis.Visible = False
         ' 
         ' TimerEmu
@@ -1902,7 +1902,7 @@ Partial Class Form1
         COMBOBOX_LanguageSettings.Location = New Point(550, 3)
         COMBOBOX_LanguageSettings.Name = "COMBOBOX_LanguageSettings"
         COMBOBOX_LanguageSettings.Size = New Size(120, 24)
-        COMBOBOX_LanguageSettings.TabIndex = 74
+        COMBOBOX_LanguageSettings.TabIndex = 90
         ' 
         ' Form1
         ' 
